@@ -31,23 +31,23 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tejas-ghodkhande&" alt="tejas-ghodkhande" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chaitanyayuvrajpatil&show_icons=true&locale=en&layout=compact" alt="chaitanyayuvrajpatil" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tejas-ghodkhande&show_icons=true&locale=en&layout=compact" alt="tejas-ghodkhande" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chaitanyayuvrajpatil&show_icons=true&locale=en" alt="chaitanyayuvrajpatil" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tejas-ghodkhande&show_icons=true&locale=en" alt="tejas-ghodkhande" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chaitanyayuvrajpatil&" alt="chaitanyayuvrajpatil" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tejas-ghodkhande&" alt="tejas-ghodkhande" /></p>
 
 
 
 <table>
 		<tr>
 			<td>
-				<img width="100%" height="auto" src="https://activity-graph.herokuapp.com/graph?username=chaitanyayuvrajpatil&bg_color=1a1b27&color=be90f2&line=638fda&point=35aea1&area=true" alt="Daily Contribution Graph" />
+   <img width="100%" height="auto" src="https://activity-graph.herokuapp.com/graph?username=tejas-ghodkhande&bg_color=1a1b27&color=be90f2&line=638fda&point=35aea1&area=true" alt="Daily Contribution Graph" />
 			</td>
 		</tr>
 		<tr colspan="2">
 			<td>
-				<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chaitanyayuvrajpatil&theme=monokai"  width="100%" height="auto"  alt="Monthly Contribution Graph" >
+				<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tejas-ghodkhande&theme=monokai"  width="100%" height="auto"  alt="Monthly Contribution Graph" >
 			</td>
 		</tr>
 	</table>
