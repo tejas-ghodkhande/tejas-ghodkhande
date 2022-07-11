@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **Personal Portfolio**
 
-- 🌱 I’m currently learning **Android**
+- 🌱 I’m currently learning **Machine Learning **
 
-- 💬 Ask me about **Android**
+- 💬 Ask me about **Data structures and Algorithms **
 
 - 📫 How to reach me **tejas.ghodkhande2907@gmail.com**
 
