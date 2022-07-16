@@ -1,4 +1,3 @@
-<img align="right" alt="Coding" width="400" src="https://www.sydney.edu.au/content/dam/corporate/images/faculty-of-engineering-and-information-technologies/about/school-of-computer-science.jpg">
 <h1 align="center">Hi 👋, I'm Tejas Ghodkhande</h1>
 <h3 align="center">A passionate Frontend Developer and Programmer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
