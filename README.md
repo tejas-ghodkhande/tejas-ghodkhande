@@ -7,7 +7,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tejas-ghodkhande&label=Profile%20views&color=0e75b6&style=flat" alt="tejas-ghodkhande" /> </p>
 
-- 🔭 I’m currently working on **Personal Portfolio**
+- 🔭 I feel my sincere and dedicated approach coupled with hunger for learning and adapting to any new technology will enable me to achieve required outcomes and deliver success for any organisation that I work for.**I have proficiency in C, C++,and I am familiar with Java and python. I have worked on HTML, CSS, JavaScript.**
+
+ 
 
 - 🌱 I’m currently learning **Flutter**
 
