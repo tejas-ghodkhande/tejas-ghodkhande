@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Data structures and Algorithms**
 
-- 📫 How to reach me **tejas.ghodkhande2907@gmail.com**
+- 📫 How to reach me **tejas.ghodkhande2907@gmail.com** , **<a href="https://tejasghodkhande.netlify.app/"> Tejas Ghodkhande</a>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
