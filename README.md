@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Personal Portfolio**
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Flutter**
 
 - 💬 Ask me about **Data structures and Algorithms**
 
