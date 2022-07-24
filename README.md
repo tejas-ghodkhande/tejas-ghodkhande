@@ -11,7 +11,7 @@
 
  
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **DSA**
 
 - 💬 Ask me about **Data structures and Algorithms**
 
