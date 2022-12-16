@@ -11,7 +11,7 @@
 
  
 
-- 🌱 I’m currently learning **Data Structures And Algorithms And React Js**
+- 🌱 I’m currently learning **Java Programming**
 
 - 💬 Ask me about **Data structures and Algorithms**
 
