@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Tejas Ghodkhande</h1>
-<h2 align="center">A passionate Frontend Developer and  intern  @ Cognologix Technologies,Pune</h2>
+<h2 align="center">A passionate Developer and  intern  @ Cognologix Technologies,Pune</h2>
 <h3 align="center">Student At SGGS Institute Of Engineering And Technology , Nanded , Maharashtra , India .</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
